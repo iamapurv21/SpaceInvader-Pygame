@@ -1,6 +1,6 @@
-Space-Invader Pygame
+#Space-Invader Pygame
 
-~Introduction
+Introduction
 This is a classic Space Invader game created using the Pygame library in Python. The game features a player-controlled spaceship that must shoot down invading alien ships while avoiding enemy attacks. 
 
 ~Project Overview
